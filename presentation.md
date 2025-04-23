@@ -3,20 +3,20 @@
 
 ---
 
-## 🧑‍💼 Diego's Section
+## Virginia's Section
 
-### 🔍 Research Question
+### Research Question
 Do companies with higher ESG scores tend to have better stock performance (e.g., returns, volatility)?
 
 ---
 
-### 📚 Data Sources
+### Data Sources
 - `esg_data.csv`: ESG scores dataset including Environmental, Social, and Governance metrics.
 - Yahoo Finance (via `yfinance` library): 1 year of daily historical stock prices for matching tickers.
 
 ---
 
-### 🧪 Methodology
+### Methodology
 1. Cleaned ESG dataset: selected relevant columns, standardized tickers, handled missing values.
 2. Downloaded daily stock prices using `yfinance` for each company.
 3. Calculated:
@@ -27,7 +27,7 @@ Do companies with higher ESG scores tend to have better stock performance (e.g.,
 
 ---
 
-### 📈 Results
+### Results
 
 #### 🔹 Correlation Heatmap
 Shows relationships between ESG scores and financial metrics (return & volatility).
@@ -41,13 +41,13 @@ Each chart helps visualize whether higher ESG scores are associated with better 
 
 ---
 
-### 💡 Key Findings
+### Key Findings
 - No strong correlation between ESG scores and average monthly returns.
 - A slight negative correlation between ESG scores and volatility, suggesting more stability in ESG-conscious companies.
 
 ---
 
-### 🧠 Discussion
+### Discussion
 - **Limitations**:
   - Only 1 year of stock data; short-term trends
   - Volatility and return are limited proxies for long-term performance
