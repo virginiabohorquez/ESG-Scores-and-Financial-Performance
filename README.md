@@ -1,16 +1,13 @@
-# ESG-Scores-and-Financial-Performance
+# ESG Scores and Financial Performance
 Final Python Project
-
-# ESG Scores vs Stock Performance
-
-This question explores whether companies with higher ESG (Environmental, Social, Governance) scores tend to have better stock performance, measured in terms of returns and volatility.
-
-## Research by: Virginia Bohorquez
 
 ---
 
-## Research Question
+# Research Question
+## ESG Scores vs Stock Performance
 Do companies with higher ESG scores tend to have better stock performance (e.g., returns, volatility)?
+
+This question explores whether companies with higher ESG (Environmental, Social, Governance) scores tend to have better stock performance, measured in terms of returns and volatility.
 
 ---
 
